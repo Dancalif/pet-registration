@@ -1,3 +1,4 @@
+package com.sqa.du.pet.registrstion;
 import java.util.Scanner;
 
 import com.sqa.du.util.helper.RequestInput;
